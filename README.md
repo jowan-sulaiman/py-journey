@@ -70,7 +70,7 @@ Damit du deinen Fork mit Änderungen aus dem ursprünglichen (unserem Haupt-) Re
 * **So geht's (im Terminal, im Verzeichnis deines geklonten Forks):**
     1.  Führe diesen Befehl aus, um das Original-Repository als "upstream" hinzuzufügen:
         ```bash
-        git remote add upstream [https://github.com/jowansulaiman/py-journey.git](https://github.com/jowansulaiman/py-journey.git)
+        git remote add upstream https://github.com/jowansulaiman/py-journey.git
         ```
         *(Alternativ, falls du SSH bevorzugst und eingerichtet hast: `git remote add upstream git@github.com:jowansulaiman/py-journey.git`)*
     2.  Überprüfe, ob es geklappt hat:
